@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="search">search</string>
+    <string name="add">add location</string>
+    <string name="no_internet_connection">Please check your Internet Connection and Try again.</string>
+    <string name="empty_location_list">Please add Location first.</string>
+    <string name="empty_result">No Result Please Select Location.</string>
+    <string name="no_record_found">No record found</string>
+    <string name="today_forecast">Today</string>
+    <string name="five_days">Five Days</string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="button_clear_city">Clear City</string>
+    <string name="setting">Setting Preference</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="temperature">Temperature</string>
+    <string name="rain">Rain</string>
+    <string name="forecast_type">Forecast Type : </string>
+    <string name="forecast_unit">Forecast Unit : </string>
+    <string name="unable_to_load_data">Unable to load Data...</string>
+    <string name="add_location_successfully">Location Added Successfully.</string>
+    <string name="delete_location">Location deleted Successfully.</string>
+    <string name="unable_to_delete_loc">Unable to deleted Location.</string>
+    <string name="title_home">Home</string>
+    <string name="title_city">City</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_help">Help</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

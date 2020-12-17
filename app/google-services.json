@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454719549575",
+    "firebase_url": "https://optical-psyche-298812-default-rtdb.firebaseio.com",
+    "project_id": "optical-psyche-298812",
+    "storage_bucket": "optical-psyche-298812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454719549575:android:00349620f73217ac090822",
+        "android_client_info": {
+          "package_name": "com.companyname.mvvmretroexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454719549575-evq6hc3tbmpuq0r5j2lmr5al5t5lr49c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.mvvmretroexample",
+            "certificate_hash": "c859761900df322c9f84a207bbed56262e1fb5a2"
+          }
+        },
+        {
+          "client_id": "454719549575-velkdm7p8r4cuomrf8a1pdr0rn089tc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodk-u0KVIxyx-boMtHRnKUHjVD-OdCSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454719549575-velkdm7p8r4cuomrf8a1pdr0rn089tc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
